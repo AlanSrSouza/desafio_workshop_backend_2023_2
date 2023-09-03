@@ -13,7 +13,7 @@ O Meu filme favorito é um site que oferece uma ampla possibilidade para os usu�
 Digite o comandando a baixo para ir para o diretorio da pasta
 ```
 cd ProjetoCrud
-
+```
 O comando abaixo usado no Django para criar arquivos de migração.
 ```
 python manage.py makemigrations
